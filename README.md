@@ -111,6 +111,6 @@ Follow these steps:
 Conclusion:
 This analysis helps identify key trends in athletic sales, focusing on the best-selling products, regions, and times for women's athletic footwear. These insights can help businesses make data-driven decisions to optimize their sales strategies.
 
-Contact
+Contact:
 For any questions or feedback, please contact Sandokan Stage at sandokan.stage@du.edu.
 
